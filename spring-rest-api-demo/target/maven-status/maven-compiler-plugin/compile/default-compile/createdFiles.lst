@@ -1,3 +1,7 @@
 com\spring\rest\demo\config\MySpringMVCDispatcherServlet.class
+com\spring\rest\demo\controller\StudentNotFoundException.class
+com\spring\rest\demo\controller\StudentErrorResponse.class
+com\spring\rest\demo\controller\StudentRestController.class
 com\spring\rest\demo\controller\DemoRestController.class
 com\spring\rest\demo\config\DemoAppConfig.class
+com\spring\rest\demo\entity\Student.class

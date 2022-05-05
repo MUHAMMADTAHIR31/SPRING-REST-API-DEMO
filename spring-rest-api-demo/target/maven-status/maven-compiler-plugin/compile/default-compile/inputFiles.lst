@@ -1,5 +1,7 @@
 D:\Spring Camp\Spring REST\spring-rest-api-demo\src\main\java\com\spring\rest\demo\entity\Student.java
 D:\Spring Camp\Spring REST\spring-rest-api-demo\src\main\java\com\spring\rest\demo\config\MySpringMVCDispatcherServlet.java
+D:\Spring Camp\Spring REST\spring-rest-api-demo\src\main\java\com\spring\rest\demo\controller\StudentErrorResponse.java
 D:\Spring Camp\Spring REST\spring-rest-api-demo\src\main\java\com\spring\rest\demo\controller\StudentRestController.java
 D:\Spring Camp\Spring REST\spring-rest-api-demo\src\main\java\com\spring\rest\demo\config\DemoAppConfig.java
 D:\Spring Camp\Spring REST\spring-rest-api-demo\src\main\java\com\spring\rest\demo\controller\DemoRestController.java
+D:\Spring Camp\Spring REST\spring-rest-api-demo\src\main\java\com\spring\rest\demo\controller\StudentNotFoundException.java
